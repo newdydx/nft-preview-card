@@ -13,7 +13,6 @@ body {
     height:100vh;
     justify-content: center;
     align-items: center;
-    /* position:relative; */
 }
 .cont {
     background-color:hsl(216, 50%, 16%);
@@ -42,7 +41,6 @@ h3 {
     color:hsl(0, 0%, 100%) ;
 }
 .one {
-
     color:hsl(215, 51%, 70%);
     letter-spacing: -0.04rem;
 }
@@ -62,7 +60,6 @@ h3 {
 }
  hr {
     border: 1px solid hsl(215, 32%, 27%);
-    /* border-collapse: collapse; */
 }
 .last {
     display: flex;
